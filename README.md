@@ -1,4 +1,4 @@
-# 🏛️ tx legislation file tree
+# 🏛️ Texas legislation file tree
 
 Download a copy of your states legislation.
 
