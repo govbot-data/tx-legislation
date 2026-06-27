@@ -171,6 +171,16 @@
       }
     },
     {
+      "description": "Statement(s) of vote recorded in Journal",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:03:08Z"
+      }
+    },
+    {
       "description": "Read 3rd time",
       "date": "2025-08-21",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -995,6 +1005,6 @@
     "division_id": "ocd-division/country:us/state:tx"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:04:29Z"
+    "logs_latest_update": "2026-06-27T13:03:08Z"
   }
 }

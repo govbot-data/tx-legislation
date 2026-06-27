@@ -160,6 +160,16 @@
       }
     },
     {
+      "description": "Statement(s) of vote recorded in Journal",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:03:08Z"
+      }
+    },
+    {
       "description": "Passed to engrossment",
       "date": "2025-08-25",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -629,13 +639,7 @@
       "organization_id": null
     }
   ],
-  "related_bills": [
-    {
-      "identifier": "SB 40",
-      "legislative_session": "892",
-      "relation_type": "companion"
-    }
-  ],
+  "related_bills": [],
   "versions": [
     {
       "note": "Introduced",
@@ -774,6 +778,6 @@
     "division_id": "ocd-division/country:us/state:tx"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:04:29Z"
+    "logs_latest_update": "2026-06-27T13:03:08Z"
   }
 }
