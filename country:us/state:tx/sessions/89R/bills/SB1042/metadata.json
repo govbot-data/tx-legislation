@@ -1,0 +1,182 @@
+{
+  "legislative_session": "89R",
+  "identifier": "SB 1042",
+  "title": "Relating to the Kimble County Hospital District of Kimble County, Texas.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Hospitals (I0400)",
+    "KIMBLE COUNTY HOSPITAL DISTRICT (DX8PD)",
+    "Special Districts & Authorities--Hospital (I0750)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-89r-sb1042"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Secretary of the Senate",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing",
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:12Z"
+      }
+    },
+    {
+      "description": "Filed",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:12Z"
+      }
+    },
+    {
+      "description": "Read first time",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:12Z"
+      }
+    },
+    {
+      "description": "Referred to Local Government",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:12Z"
+      }
+    },
+    {
+      "description": "Scheduled for public hearing on  . . .",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:12Z"
+      }
+    },
+    {
+      "description": "Considered in public hearing",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:12Z"
+      }
+    },
+    {
+      "description": "Left pending in committee",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Flores",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Flores\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/html/SB01042I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/pdf/SB01042I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Analysis (Introduced)",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/analysis/html/SB01042I.HTM",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note (Introduced)",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/fiscalNotes/html/SB01042I.HTM",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB01000_SB01099/SB 1042.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1042",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-06-27T13:39:12Z"
+  }
+}

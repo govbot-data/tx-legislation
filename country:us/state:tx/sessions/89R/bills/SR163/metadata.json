@@ -1,0 +1,125 @@
+{
+  "legislative_session": "89R",
+  "identifier": "SR 163",
+  "title": "Recognizing February 26, 2025, as Texas Nonprofit Strong and United Way Day.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "NONPROFIT STRONG & UNITED WAY DAY, TEXAS (HP469)",
+    "Resolutions--Official Designations--Special Dates (I0721)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-89r-sr163"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Secretary of the Senate",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing",
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:18Z"
+      }
+    },
+    {
+      "description": "Read & adopted",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:18Z"
+      }
+    },
+    {
+      "description": "Reported enrolled",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:18Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Parker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Parker\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/html/SR00163I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/pdf/SR00163I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/html/SR00163F.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/pdf/SR00163F.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_resolutions/SR00100_SR00199/SR 163.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SR163",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-06-27T13:39:18Z"
+  }
+}

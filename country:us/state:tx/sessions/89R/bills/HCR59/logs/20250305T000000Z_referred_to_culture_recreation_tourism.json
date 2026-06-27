@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Culture, Recreation & Tourism",
+    "occurred_at": "2025-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Culture, Recreation & Tourism",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_concurrent_resolutions/HCR00001_HCR00099/HCR 59.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HCR59",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 59"
+}

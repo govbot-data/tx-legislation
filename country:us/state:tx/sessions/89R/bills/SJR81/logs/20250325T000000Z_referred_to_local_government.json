@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Local Government",
+    "occurred_at": "2025-03-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Local Government",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_joint_resolutions/SJR00001_SJR00099/SJR 81.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SJR81",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 81"
+}

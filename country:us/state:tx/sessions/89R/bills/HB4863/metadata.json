@@ -1,0 +1,119 @@
+{
+  "legislative_session": "89R",
+  "identifier": "HB 4863",
+  "title": "Relating to required mental health awareness training for first responders.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "HEALTH & HUMAN SERVICES COMMISSION (V0177)",
+    "Health--Emergency Services & Personnel (I0384)",
+    "LAW ENFORCEMENT, TEXAS COMMISSION ON (V0986)",
+    "Law Enforcement (I0510)",
+    "Mental Health & Substance Abuse (I0019)",
+    "STAFF DEVELOPMENT & TRAINING (S0317)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-89r-hb4863"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Read first time",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Referred to Public Health",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Health",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Goodwin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Goodwin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/html/HB04863I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/pdf/HB04863I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB04800_HB04899/HB 4863.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB4863",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-06-27T13:39:08Z"
+  }
+}

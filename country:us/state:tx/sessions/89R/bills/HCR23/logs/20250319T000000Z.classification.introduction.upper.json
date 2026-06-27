@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Read & adopted",
+    "occurred_at": "2025-03-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_concurrent_resolutions/HCR00001_HCR00099/HCR 23.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HCR23",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 23"
+}

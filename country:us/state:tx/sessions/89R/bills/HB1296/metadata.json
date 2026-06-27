@@ -1,0 +1,118 @@
+{
+  "legislative_session": "89R",
+  "identifier": "HB 1296",
+  "title": "Relating to the voter registration of naturalized United States citizens.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Aliens (I0032)",
+    "County Government--General (I0096)",
+    "Elections--Registration & Suffrage (I0265)",
+    "PUBLIC SAFETY, DEPARTMENT OF (V0251)",
+    "SECRETARY OF STATE (V0042)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-89r-hb1296"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2024-11-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:18Z"
+      }
+    },
+    {
+      "description": "Read first time",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:18Z"
+      }
+    },
+    {
+      "description": "Referred to Elections",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:18Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Vo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Vo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/html/HB01296I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/pdf/HB01296I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB01200_HB01299/HB 1296.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1296",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-06-27T13:39:18Z"
+  }
+}

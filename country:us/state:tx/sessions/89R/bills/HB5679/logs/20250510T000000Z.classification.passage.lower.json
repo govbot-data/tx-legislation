@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Passed",
+    "occurred_at": "2025-05-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB05600_HB05699/HB 5679.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5679",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5679"
+}

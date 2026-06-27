@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Received from the Senate",
+    "occurred_at": "2025-04-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB01100_SB01199/SB 1150.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1150",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1150"
+}

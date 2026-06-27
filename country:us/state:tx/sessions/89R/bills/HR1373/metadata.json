@@ -1,0 +1,173 @@
+{
+  "legislative_session": "89R",
+  "identifier": "HR 1373",
+  "title": "Posthumously paying tribute to the military service of U.S. Army Master Sergeant (Ret.) Lawrence Fitzpatrick of Clint.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "FITZPATRICK, LAWRENCE (NI7Y5)",
+    "Resolutions--Memorial (I0710)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-89r-hr1373"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-05-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:07Z"
+      }
+    },
+    {
+      "description": "Referred to Local & Consent Calendars",
+      "date": "2025-05-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Local & Consent Calendars",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:07Z"
+      }
+    },
+    {
+      "description": "Considered in Local & Consent Calendars",
+      "date": "2025-05-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:07Z"
+      }
+    },
+    {
+      "description": "Placed on Congrat. & Memorial Res. Calendar",
+      "date": "2025-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:07Z"
+      }
+    },
+    {
+      "description": "Laid before the House",
+      "date": "2025-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:07Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2025-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:07Z"
+      }
+    },
+    {
+      "description": "Reported enrolled",
+      "date": "2025-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gonz\u00e1lez, Mary",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gonz\\u00e1lez, Mary\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/html/HR01373I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/pdf/HR01373I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/html/HR01373F.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/pdf/HR01373F.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_resolutions/HR01300_HR01399/HR 1373.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HR1373",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-06-27T13:39:07Z"
+  }
+}

@@ -1,0 +1,634 @@
+{
+  "legislative_session": "89R",
+  "identifier": "SB 871",
+  "title": "Relating to the authority of the legislature, governor, and certain political subdivisions with respect to disasters and emergencies.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Disaster Preparedness & Relief (I0211)",
+    "Governor (I0375)",
+    "Legislature (I0520)",
+    "State Agencies, Boards & Commissions (I0749)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-89r-sb871"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Secretary of the Senate",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing",
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Filed",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Read first time",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "State Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Scheduled for public hearing on  . . .",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Considered in public hearing",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Testimony taken in committee",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Left pending in committee",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Considered in public hearing",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Vote taken in committee",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Reported favorably as substituted",
+      "date": "2025-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Committee report printed and distributed",
+      "date": "2025-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Co-author authorized",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Placed on intent calendar",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Co-author authorized",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Rules suspended-Regular order of business",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Read 2nd time & passed to engrossment",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Vote recorded in Journal",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Three day rule suspended",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Record vote",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Record vote",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Reported engrossed",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Received from the Senate",
+      "date": "2025-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Read first time",
+      "date": "2025-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Referred to State Affairs",
+      "date": "2025-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "State Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Considered in public hearing",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Testimony taken/registration(s) recorded in committee",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Left pending in committee",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Considered in formal meeting",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Reported favorably w/o amendment(s)",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Comte report filed with Committee Coordinator",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Committee report distributed",
+      "date": "2025-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Committee report sent to Calendars",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    },
+    {
+      "description": "Considered in Calendars",
+      "date": "2025-05-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Birdwell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Birdwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kolkhorst",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kolkhorst\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Middleton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Middleton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Slawson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Slawson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/html/SB00871I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/pdf/SB00871I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Report",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/html/SB00871S.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/pdf/SB00871S.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/html/SB00871E.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/pdf/SB00871E.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Report",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/html/SB00871H.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/pdf/SB00871H.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Analysis (Introduced)",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/analysis/html/SB00871I.HTM",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis (Senate Committee Report)",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/analysis/html/SB00871S.HTM",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis (House Committee Report)",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/analysis/html/SB00871H.HTM",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note (Introduced)",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/fiscalNotes/html/SB00871I.HTM",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note (Senate Committee Report)",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/fiscalNotes/html/SB00871S.HTM",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note (Engrossed)",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/fiscalNotes/html/SB00871E.HTM",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Witness List (House Committee Report)",
+      "links": [
+        {
+          "url": "ftp://ftp.legis.state.tx.us/bills/89R/witlistbill/html/senate_bills/SB00800_SB00899/SB00871H.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Witness List (Senate Committee Report)",
+      "links": [
+        {
+          "url": "ftp://ftp.legis.state.tx.us/bills/89R/witlistbill/html/senate_bills/SB00800_SB00899/SB00871S.HTM",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB00800_SB00899/SB 871.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB871",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-06-27T13:39:08Z"
+  }
+}

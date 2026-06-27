@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to s/c on State-Federal Relations by Speaker",
+    "occurred_at": "2025-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "s/c on State-Federal Relations by Speaker",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB00900_SB00999/SB 906.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB906",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 906"
+}

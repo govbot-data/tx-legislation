@@ -1,0 +1,148 @@
+{
+  "legislative_session": "89R",
+  "identifier": "SB 380",
+  "title": "Relating to a period of prayer and reading of the Bible or other religious text in public schools.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ATTORNEY GENERAL (V2811)",
+    "Education--Primary & Secondary--Charter Schools (I0245)",
+    "Education--School Districts (I0220)",
+    "Religion (I0646)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-89r-sb380"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Received by the Secretary of the Senate",
+      "date": "2024-11-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing",
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:04Z"
+      }
+    },
+    {
+      "description": "Filed",
+      "date": "2024-11-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:04Z"
+      }
+    },
+    {
+      "description": "Read first time",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:04Z"
+      }
+    },
+    {
+      "description": "Referred to Education K-16",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education K-16",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:04Z"
+      }
+    },
+    {
+      "description": "Co-author authorized",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Middleton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Middleton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Campbell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Campbell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/html/SB00380I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/pdf/SB00380I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB00300_SB00399/SB 380.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB380",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-06-27T13:39:04Z"
+  }
+}

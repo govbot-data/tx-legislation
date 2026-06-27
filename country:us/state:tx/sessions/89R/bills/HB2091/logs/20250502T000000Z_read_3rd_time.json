@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Read 3rd time",
+    "occurred_at": "2025-05-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB02000_HB02099/HB 2091.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2091",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2091"
+}

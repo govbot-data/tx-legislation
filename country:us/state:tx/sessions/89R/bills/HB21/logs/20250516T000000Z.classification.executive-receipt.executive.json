@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Sent to the Governor",
+    "occurred_at": "2025-05-16",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB00001_HB00099/HB 21.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB21",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 21"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Passed to 3rd reading as amended",
+    "occurred_at": "2025-05-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB00100_HB00199/HB 150.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB150",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 150"
+}

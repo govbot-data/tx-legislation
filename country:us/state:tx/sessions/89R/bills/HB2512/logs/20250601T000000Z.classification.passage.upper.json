@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Signed in the Senate",
+    "occurred_at": "2025-06-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB02500_HB02599/HB 2512.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2512",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2512"
+}

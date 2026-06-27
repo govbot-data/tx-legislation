@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Committee report distributed",
+    "occurred_at": "2025-04-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB00001_SB00099/SB 5.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB5",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 5"
+}

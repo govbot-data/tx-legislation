@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Transferred to Calendars Committee",
+    "occurred_at": "2025-04-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB02900_HB02999/HB 2914.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2914",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2914"
+}

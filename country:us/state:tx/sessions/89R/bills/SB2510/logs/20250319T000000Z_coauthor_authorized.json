@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Co-author authorized",
+    "occurred_at": "2025-03-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB02500_SB02599/SB 2510.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2510",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 2510"
+}

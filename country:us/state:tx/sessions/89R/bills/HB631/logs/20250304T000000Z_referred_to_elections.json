@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Elections",
+    "occurred_at": "2025-03-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Elections",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB00600_HB00699/HB 631.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB631",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 631"
+}

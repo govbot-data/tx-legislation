@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Effective on 9/1/25",
+    "occurred_at": "2025-06-20",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB03600_HB03699/HB 3680.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3680",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 3680"
+}

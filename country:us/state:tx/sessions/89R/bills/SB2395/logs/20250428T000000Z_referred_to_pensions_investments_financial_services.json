@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Pensions, Investments & Financial Services",
+    "occurred_at": "2025-04-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Pensions, Investments & Financial Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB02300_SB02399/SB 2395.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2395",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 2395"
+}

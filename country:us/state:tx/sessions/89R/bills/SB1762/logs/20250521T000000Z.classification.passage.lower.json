@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Passed",
+    "occurred_at": "2025-05-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB01700_SB01799/SB 1762.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1762",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1762"
+}

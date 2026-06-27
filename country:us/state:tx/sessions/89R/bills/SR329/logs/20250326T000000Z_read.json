@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Read",
+    "occurred_at": "2025-03-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_resolutions/SR00300_SR00399/SR 329.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SR329",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 329"
+}

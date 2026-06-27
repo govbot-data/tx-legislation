@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Signed by the Governor",
+    "occurred_at": "2025-06-22",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB02200_SB02299/SB 2206.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2206",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 2206"
+}

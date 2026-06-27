@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Read 2nd time & passed to 3rd reading",
+    "occurred_at": "2025-05-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB05600_HB05699/HB 5667.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5667",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5667"
+}

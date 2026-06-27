@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Read & adopted",
+    "occurred_at": "2025-03-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_resolutions/SR00200_SR00299/SR 230.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SR230",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 230"
+}

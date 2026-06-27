@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Pensions, Investments & Financial Services",
+    "occurred_at": "2025-04-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Pensions, Investments & Financial Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_joint_resolutions/SJR00001_SJR00099/SJR 57.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SJR57",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 57"
+}

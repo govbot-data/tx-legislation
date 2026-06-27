@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Read first time",
+    "occurred_at": "2025-04-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB05100_HB05199/HB 5112.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5112",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5112"
+}

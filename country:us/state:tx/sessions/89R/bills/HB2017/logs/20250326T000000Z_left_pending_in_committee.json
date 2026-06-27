@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Left pending in committee",
+    "occurred_at": "2025-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB02000_HB02099/HB 2017.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2017",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2017"
+}

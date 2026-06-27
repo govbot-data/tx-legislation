@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Rules suspended-Constitutional 60-Day",
+    "occurred_at": "2025-03-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_concurrent_resolutions/SCR00001_SCR00099/SCR 9.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SCR9",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR 9"
+}

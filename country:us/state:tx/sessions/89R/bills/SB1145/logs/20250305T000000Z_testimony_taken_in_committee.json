@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Testimony taken in committee",
+    "occurred_at": "2025-03-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB01100_SB01199/SB 1145.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1145",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1145"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "House passage as amended reported",
+    "occurred_at": "2025-05-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB00500_SB00599/SB 529.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB529",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 529"
+}

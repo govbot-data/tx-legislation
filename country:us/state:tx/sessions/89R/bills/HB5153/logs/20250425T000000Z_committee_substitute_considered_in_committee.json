@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Committee substitute considered in committee",
+    "occurred_at": "2025-04-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "substitution"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB05100_HB05199/HB 5153.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5153",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5153"
+}

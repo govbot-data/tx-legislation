@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Adopted",
+    "occurred_at": "2025-03-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_resolutions/SR00200_SR00299/SR 258.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SR258",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 258"
+}

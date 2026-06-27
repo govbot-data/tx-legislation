@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Licensing & Administrative Procedures",
+    "occurred_at": "2025-04-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Licensing & Administrative Procedures",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB00600_SB00699/SB 681.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB681",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 681"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Reported favorably as substituted",
+    "occurred_at": "2025-04-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB02500_HB02599/HB 2556.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2556",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2556"
+}

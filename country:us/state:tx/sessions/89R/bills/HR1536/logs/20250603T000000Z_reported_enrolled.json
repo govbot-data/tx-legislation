@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Reported enrolled",
+    "occurred_at": "2025-06-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "enrolled"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_resolutions/HR01500_HR01599/HR 1536.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HR1536",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 1536"
+}

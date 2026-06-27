@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Passed to engrossment",
+    "occurred_at": "2025-05-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB05300_HB05399/HB 5394.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5394",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5394"
+}

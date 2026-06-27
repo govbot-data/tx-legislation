@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Considered in public hearing",
+    "occurred_at": "2025-03-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB00900_SB00999/SB 987.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB987",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 987"
+}

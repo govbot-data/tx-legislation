@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Read 2nd time",
+    "occurred_at": "2025-05-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB05000_HB05099/HB 5057.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5057",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5057"
+}

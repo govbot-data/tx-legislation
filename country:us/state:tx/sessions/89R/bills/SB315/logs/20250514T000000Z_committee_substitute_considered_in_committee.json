@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Committee substitute considered in committee",
+    "occurred_at": "2025-05-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "substitution"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB00300_SB00399/SB 315.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB315",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 315"
+}

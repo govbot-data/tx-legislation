@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Considered in Local & Consent Calendars",
+    "occurred_at": "2025-04-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_concurrent_resolutions/HCR00001_HCR00099/HCR 78.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HCR78",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 78"
+}

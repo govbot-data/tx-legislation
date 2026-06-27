@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Health & Human Services",
+    "occurred_at": "2025-02-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Health & Human Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB00900_SB00999/SB 999.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB999",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 999"
+}

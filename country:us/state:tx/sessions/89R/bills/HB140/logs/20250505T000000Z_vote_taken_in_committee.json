@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Vote taken in committee",
+    "occurred_at": "2025-05-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB00100_HB00199/HB 140.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB140",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 140"
+}

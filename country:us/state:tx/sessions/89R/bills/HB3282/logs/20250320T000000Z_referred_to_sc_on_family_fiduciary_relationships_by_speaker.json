@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to s/c on Family & Fiduciary Relationships by Speaker",
+    "occurred_at": "2025-03-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "s/c on Family & Fiduciary Relationships by Speaker",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB03200_HB03299/HB 3282.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3282",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 3282"
+}

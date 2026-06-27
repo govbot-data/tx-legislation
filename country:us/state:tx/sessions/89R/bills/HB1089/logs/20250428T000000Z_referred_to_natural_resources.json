@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Natural Resources",
+    "occurred_at": "2025-04-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Natural Resources",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB01000_HB01099/HB 1089.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1089",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1089"
+}

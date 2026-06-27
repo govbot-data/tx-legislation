@@ -1,0 +1,122 @@
+{
+  "legislative_session": "89R",
+  "identifier": "HB 4231",
+  "title": "Relating to cybersecurity for retail public utilities that provide water or sewer service.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AUDITS & AUDITORS (S4334)",
+    "ENVIRONMENTAL QUALITY, TEXAS COMMISSION ON (V0334)",
+    "Electronic Information Systems (I0311)",
+    "INFORMATION RESOURCES, DEPARTMENT OF (V9827)",
+    "PUBLIC UTILITY COMMISSION (V0023)",
+    "STAFF DEVELOPMENT & TRAINING (S0317)",
+    "UNIVERSITY OF TEXAS AT SAN ANTONIO (U0001)",
+    "Utilities--General (I0830)",
+    "Utilities--Water & Sewer (I0002)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tx-89r-hb4231"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:17Z"
+      }
+    },
+    {
+      "description": "Read first time",
+      "date": "2025-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:17Z"
+      }
+    },
+    {
+      "description": "Referred to Delivery of Government Efficiency",
+      "date": "2025-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Delivery of Government Efficiency",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-06-27T13:39:17Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Capriglione",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Capriglione\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/html/HB04231I.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "http://capitol.texas.gov/tlodocs/89R/billtext/pdf/HB04231I.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB04200_HB04299/HB 4231.xml",
+      "note": ""
+    },
+    {
+      "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB4231",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:tx/government",
+    "name": "Texas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:tx"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-06-27T13:39:17Z"
+  }
+}

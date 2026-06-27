@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Pensions, Investments & Financial Services",
+    "occurred_at": "2025-03-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Pensions, Investments & Financial Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB03200_HB03299/HB 3262.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3262",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 3262"
+}

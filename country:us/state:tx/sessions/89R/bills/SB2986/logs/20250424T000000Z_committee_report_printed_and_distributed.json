@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Committee report printed and distributed",
+    "occurred_at": "2025-04-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB02900_SB02999/SB 2986.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2986",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 2986"
+}

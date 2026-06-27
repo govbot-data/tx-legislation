@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Considered in public hearing",
+    "occurred_at": "2025-05-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB02600_SB02699/SB 2639.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2639",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 2639"
+}

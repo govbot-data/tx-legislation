@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Filed",
+    "occurred_at": "2025-02-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB01300_SB01399/SB 1336.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1336",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1336"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Nonrecord vote recorded in Journal",
+    "occurred_at": "2025-05-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_resolutions/HR01200_HR01299/HR 1270.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HR1270",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 1270"
+}

@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to State Affairs",
+    "occurred_at": "2025-05-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "State Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB02900_SB02999/SB 2986.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2986",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 2986"
+}

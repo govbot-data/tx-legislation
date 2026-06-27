@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Signed in the House",
+    "occurred_at": "2025-05-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB02700_HB02799/HB 2763.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2763",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2763"
+}

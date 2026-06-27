@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Considered in public hearing",
+    "occurred_at": "2025-04-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB00800_SB00899/SB 865.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB865",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 865"
+}

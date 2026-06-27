@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Testimony taken/registration(s) recorded in committee",
+    "occurred_at": "2025-05-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB03200_HB03299/HB 3207.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3207",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 3207"
+}

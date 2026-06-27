@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Passed to engrossment",
+    "occurred_at": "2025-05-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB03500_HB03599/HB 3520.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3520",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 3520"
+}

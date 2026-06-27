@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Effective on 9/1/25",
+    "occurred_at": "2025-05-13",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB01600_SB01699/SB 1697.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1697",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1697"
+}

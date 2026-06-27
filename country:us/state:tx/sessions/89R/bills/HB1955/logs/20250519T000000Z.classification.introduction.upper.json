@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Received from the House",
+    "occurred_at": "2025-05-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB01900_HB01999/HB 1955.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1955",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1955"
+}

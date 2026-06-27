@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Sent to the Governor",
+    "occurred_at": "2025-05-09",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB01200_SB01299/SB 1229.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1229",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1229"
+}

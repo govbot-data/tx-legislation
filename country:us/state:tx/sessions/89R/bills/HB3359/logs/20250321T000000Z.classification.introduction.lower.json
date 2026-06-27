@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Read first time",
+    "occurred_at": "2025-03-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB03300_HB03399/HB 3359.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3359",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 3359"
+}

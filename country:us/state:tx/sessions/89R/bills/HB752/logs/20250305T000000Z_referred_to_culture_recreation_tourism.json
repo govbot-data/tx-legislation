@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Culture, Recreation & Tourism",
+    "occurred_at": "2025-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Culture, Recreation & Tourism",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB00700_HB00799/HB 752.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB752",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 752"
+}

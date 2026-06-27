@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Criminal Justice",
+    "occurred_at": "2025-02-03",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Criminal Justice",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB00600_SB00699/SB 679.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB679",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 679"
+}

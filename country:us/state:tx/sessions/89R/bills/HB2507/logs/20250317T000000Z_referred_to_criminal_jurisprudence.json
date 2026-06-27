@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Criminal Jurisprudence",
+    "occurred_at": "2025-03-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Criminal Jurisprudence",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB02500_HB02599/HB 2507.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2507",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2507"
+}

@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Placed on General State Calendar",
+    "occurred_at": "2025-05-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB02900_HB02999/HB 2911.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2911",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2911"
+}

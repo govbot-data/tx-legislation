@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "Referred to Criminal Jurisprudence",
+    "occurred_at": "2025-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Criminal Jurisprudence",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_bills/HB01600_HB01699/HB 1653.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1653",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1653"
+}

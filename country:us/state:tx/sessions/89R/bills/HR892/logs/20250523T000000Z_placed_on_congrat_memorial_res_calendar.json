@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Placed on Congrat. & Memorial Res. Calendar",
+    "occurred_at": "2025-05-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_resolutions/HR00800_HR00899/HR 892.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HR892",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 892"
+}

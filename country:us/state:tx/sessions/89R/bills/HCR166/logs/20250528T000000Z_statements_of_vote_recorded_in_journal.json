@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Statement(s) of vote recorded in Journal",
+    "occurred_at": "2025-05-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/house_concurrent_resolutions/HCR00100_HCR00199/HCR 166.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HCR166",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 166"
+}

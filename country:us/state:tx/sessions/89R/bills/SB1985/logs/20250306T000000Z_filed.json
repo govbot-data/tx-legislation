@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Filed",
+    "occurred_at": "2025-03-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB01900_SB01999/SB 1985.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1985",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1985"
+}

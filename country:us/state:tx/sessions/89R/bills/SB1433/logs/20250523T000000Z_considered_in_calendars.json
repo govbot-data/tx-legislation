@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Considered in Calendars",
+    "occurred_at": "2025-05-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB01400_SB01499/SB 1433.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1433",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1433"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Received from the Senate",
+    "occurred_at": "2025-04-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "89R",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB00600_SB00699/SB 621.xml",
+        "note": ""
+      },
+      {
+        "url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB621",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 621"
+}
