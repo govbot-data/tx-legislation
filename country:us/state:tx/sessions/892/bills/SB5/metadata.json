@@ -1969,6 +1969,7 @@
     "division_id": "ocd-division/country:us/state:tx"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:57:01Z"
+    "logs_latest_update": "2026-07-21T18:57:01Z",
+    "text_extraction_latest_update": "2026-07-21T19:33:35.423326Z"
   }
 }
